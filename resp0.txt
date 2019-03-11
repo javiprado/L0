@@ -1,0 +1,24 @@
+ 1  cd E
+    2  cd E:\
+    3  ls
+    4  cd progra
+    5  git clone https://github.com/IIC2115/Syllabus
+    6  pwd
+    7  dir
+    8  ls
+    9  cd syllabus
+   10  git pull
+   11  cd
+   12  e
+   13  cd e
+   14  cd E:\
+   15  cd progra
+   16  git clone https://github.com/javiprado/L0.git
+   17  git status
+   18  cd L0
+   19  git status
+   20  git add *
+   21  git commit -m'Archivo de texto'
+   22  git push
+   23  git pull
+   24  history
